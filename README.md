@@ -26,9 +26,21 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 ## File Descriptions <a name="files"></a>
 
-There are 3 notebooks available here to showcase work related to the above questions.  Each of the notebooks is exploratory in searching through the data pertaining to the questions showcased by the notebook title.  Markdown cells were used to assist in walking through the thought process for individual steps.  
+This repository contains three exploratory Jupyter notebooks and one Python script that examine the 2017 Stack Overflow survey data.
 
-There is an additional `.py` file that runs the necessary code to obtain the final model used to predict salary.
+### Jupyter Notebooks
+
+The three notebooks explore questions about developer education, salary, and pathways into technology careers, including bootcamps and diversity.
+
+Each notebook includes:
+
+- An exploration of the research questions indicated by its title.
+- Analysis of relevant survey data.
+- Markdown cells explaining the reasoning behind individual analysis steps.
+
+### Python Script
+
+The Python script contains the code needed to produce the final salary-prediction model.
 
 ## Results<a name="results"></a>
 
