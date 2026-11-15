@@ -26,17 +26,21 @@ The full set of files related to this course are owned by Udacity, so they are n
 
 ## File Descriptions <a name="files"></a>
 
-This repository contains three exploratory Jupyter notebooks and one Python script that examine the 2017 Stack Overflow survey data.
+This repository contains three Jupyter notebooks and one Python script
+that explore the 2017 Stack Overflow survey data:
 
-### Jupyter Notebooks
+- `BootcampStats.ipynb`: Examines job placement and salary outcomes
+  for coding bootcamp graduates.
+- `HowToBreakIntoTheField.ipynb`: Explores suggested pathways for
+  becoming a software developer.
+- `Salary.ipynb`: Investigates variables associated with developer
+  salaries and job satisfaction.
+- `Salary_ML.py`: Builds a linear regression model to predict
+  developer salaries.
 
-The three notebooks explore questions about developer education, salary, and pathways into technology careers, including bootcamps and diversity.
+The notebooks include Markdown explanations that guide readers
+through the analysis and the reasoning behind individual steps.
 
-Each notebook includes:
-
-- An exploration of the research questions indicated by its title.
-- Analysis of relevant survey data.
-- Markdown cells explaining the reasoning behind individual analysis steps.
 
 ### Python Script
 
